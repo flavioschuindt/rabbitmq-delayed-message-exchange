@@ -1,4 +1,4 @@
-# Rabbitmq Delayed Message Exchange Docker
+# Rabbitmq Delayed Message Exchange Docker Image
 Docker image based on official rabbitmq with additional delayed message exchange plugin and cross compiled for differente architecures (AMD64 and ARM).
 
 You can pull the image directly from the docker hub [here](https://hub.docker.com/repository/docker/fschuindt/rabbitmq-delayed-message-exchange).
